@@ -1,20 +1,83 @@
-# 💫 About Me:
-# Hi, I'm Roshan Sah 👋<br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Developer;Python+%7C+JavaScript+%7C+Web+Dev;Cybersecurity+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45"><br></p><br><br>---<br><br>## 🚀 About Me<br><br>* 🌱 Currently learning: Python, JavaScript, HTML, Git & GitHub<br>* 🔐 Interested in: Cybersecurity<br>* 🎮 Exploring: Game Development<br>* 🌐 Focused on: Web Development<br><br>---<br><br>## 🛠️ Tech Stack<br><br><p><br>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br></p><br><br>---<br><br>## 🚀 Projects<br><br>### 📄 Resume Portfolio Website<br><br>* Personal portfolio website to showcase my skills<br>* Built using HTML, CSS, and JavaScript<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=RoshanSah123.github.io&show_icons=true&theme=tokyonight" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanSah123.github.io&theme=tokyonight" /><br></p><br><br>---<br><br>## 📈 Activity Graph<br><br><p align="center"><br>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanSah123.github.io&theme=tokyo-night" /><br></p><br><br>---<br><br>## 🎯 Goals<br><br>* Become a skilled developer<br>* Build real-world projects<br>* Learn cybersecurity fundamentals<br><br>---<br><br>## 📫 Connect with Me<br><br>* (Add your links here later)<br><br>---<br><br>⭐️ Thanks for visiting my profile!<br>
+# Hi, I'm Roshan Sah 👋
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/roshansah996@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roshan.sah3514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshansah624@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RoshanSah123.github.io&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RoshanSah123.github.io&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSah123.github.io&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RoshanSah123.github.io&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Developer;Python+%7C+JavaScript+%7C+Web+Dev;Cybersecurity+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RoshanSah123.github.io&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+
+* 🌱 Learning: Python, JavaScript, HTML, Git & GitHub
+* 🔐 Interested in Cybersecurity
+* 🎮 Exploring Game Development
+* 🌐 Focused on Web Development
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📄 Resume Portfolio Website
+
+* Personal portfolio to showcase my skills
+* Built using HTML, CSS, JavaScript
+
+---
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/roshan.sah3514)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:roshansah624@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanSah123&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanSah123&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanSah123&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanSah123&theme=radical&margin-w=10" />
+</p>
+
+---
+
+## 🎯 Goals
+
+* Become a skilled developer
+* Build real-world projects
+* Learn cybersecurity fundamentals
+
+---
+
+⭐️ Thanks for visiting my profile!
