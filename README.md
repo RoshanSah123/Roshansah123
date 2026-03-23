@@ -1,29 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Roshan%20Sah&fontSize=40&fontColor=ffffff" />
 </p>
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: RoshanSah123
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # Hi, I'm Roshan Sah 👋
 
@@ -57,10 +35,24 @@ jobs:
 
 ## 🚀 Projects
 
-### 📄 Resume Portfolio Website
+### 🌐 Portfolio Website
+🔗 https://roshansah123.github.io
+- Built with HTML, CSS, JavaScript  
+- Responsive design  
+- Showcases my skills and resume  
 
-* Personal portfolio to showcase my skills
-* Built using HTML, CSS, JavaScript
+---
+
+### 🔐 Password Generator (Coming Soon)
+- Generates secure passwords  
+- Built with JavaScript  
+- Focus on cybersecurity basics  
+
+---
+
+### 🎮 Mini Game (Coming Soon)
+- Simple browser game  
+- Built with JavaScript  
 
 ---
 
@@ -109,7 +101,4 @@ jobs:
 
 ⭐️ Thanks for visiting my profile!
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RoshanSah123/RoshanSah123/output/github-contribution-grid-snake.svg" />
-</p>
+
