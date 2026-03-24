@@ -50,9 +50,10 @@
 
 ---
 
-### 🎮 Mini Game (Coming Soon)
+### 🎮 Mini Game (Available)
+🔗 https://roshansah123.github.io/snake-game
 - Simple browser game  
-- Built with JavaScript  
+- Built with HTML, CSS, JavaScript 
 
 ---
 
@@ -83,13 +84,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoshanSah123&theme=radical&margin-w=10" />
-</p>
-
----
 
 ## 🎯 Goals
 
