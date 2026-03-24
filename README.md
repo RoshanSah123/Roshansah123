@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Learning: Python, JavaScript, HTML, Git & GitHub
+* 🌱 Learning: Python, JavaScript, HTML, CSS, Git & GitHub
 * 🔐 Interested in Cybersecurity
 * 🎮 Exploring Game Development
 * 🌐 Focused on Web Development
